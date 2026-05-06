@@ -1,4 +1,4 @@
-﻿# Humanoid Robot Forensics Lab
+# Humanoid Robot Forensics Lab
 
 A PHP 8.x and MySQL 8.0 forensic casework platform for humanoid robot and IoT evidence triage.
 
