@@ -98,6 +98,16 @@ docs/                Architecture, paper alignment, security, testing, database,
 bin/                 Lint and functional test scripts
 ```
 
+## Documentation
+
+- [Robot and IoT Forensic Data Source Triage](docs/robot-iot-data-source-triage.md)
+- [Architecture](docs/architecture.md)
+- [Paper Alignment](docs/paper-alignment.md)
+- [Security](docs/security.md)
+- [Testing](docs/testing.md)
+- [Database](docs/database.md)
+- [Extension Guide](docs/extension-guide.md)
+
 ## Responsible Use
 
 This repository is designed for authorized digital forensic research, evidence handling, and defensive casework planning. Do not use it to access, extract, or analyze devices without proper authorization, consent, and legal basis.
