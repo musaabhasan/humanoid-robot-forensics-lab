@@ -19,6 +19,7 @@ Official records:
 - Humanoid robot forensic defensibility assessment.
 - Artifact catalog for Zenbo Master, Zenbo App Builder, robot databases, imported applications, voice responses, reminders, media, logs, package inventory, camera/audio profiles, and Android settings.
 - Voice and media privacy minimization workflow for scoped review, bystander handling, redaction, derived evidence, and reporting boundaries.
+- Sensor clock drift correlation workflow for robot, companion app, cloud, media, network, and examiner reference timestamps.
 - SHA-256 manifest differencing for baseline and final logical acquisitions.
 - Challenge model for distributed evidence, logical acquisition limits, root-restricted app data, timestamp friction, absent network identifiers, privacy risk, artifact tampering, and tool repeatability.
 - 28 forensic controls across governance, evidence handling, scoping, acquisition, integrity, validation, analysis, timeline, application review, media review, privacy, and reporting.
@@ -103,6 +104,7 @@ bin/                 Lint and functional test scripts
 
 - [Robot and IoT Forensic Data Source Triage](docs/robot-iot-data-source-triage.md)
 - [Voice and Media Privacy Minimization](docs/voice-media-privacy-minimization.md)
+- [Robot Sensor Clock Drift Correlation](docs/sensor-clock-drift-correlation.md)
 - [Architecture](docs/architecture.md)
 - [Paper Alignment](docs/paper-alignment.md)
 - [Security](docs/security.md)
